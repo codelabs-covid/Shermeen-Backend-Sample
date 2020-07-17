@@ -1,0 +1,1 @@
+print ('This is the sample code to be used for the COVID-19 Project.')
